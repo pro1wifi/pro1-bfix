@@ -133,8 +133,9 @@
  *
  */
 
-#include <cstring>
-#include <cstdio>
+/* Supress C++ include statements */
+//#include <cstring>
+//#include <cstdio>
 
 const bool DEBUG = false;
 
